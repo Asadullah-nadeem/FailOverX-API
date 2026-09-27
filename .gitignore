@@ -1,0 +1,11 @@
+# Target build directory (contains compiled classes and build outputs)
+target/
+
+# IDE / Editor specific settings
+.vscode/
+.idea/
+*.iml
+
+# OS specific files
+.DS_Store
+Thumbs.db
